@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "id": "5e05419d",
+    "title": "Indian Contract Act, 1872 - Wikipedia",
+    "filepath": "raw/statutes/indian-contract-act-1872-wikipedia.md",
+    "type": "statute",
+    "category": "statutes",
+    "source_url": "https://en.wikipedia.org/wiki/Indian_Contract_Act,_1872",
+    "ingested_at": "2026-04-07T09:50:05",
+    "compiled": false,
+    "word_count": 4841,
+    "content_hash": "sha256:8d96b380713a37255a29cffb7eb5331d50329348dd00c6405c6f9a544375f471",
+    "body_hash": "sha256:1ebbd3e1e71b11b1733a10d85a009f396c6ef25c695a8f41c12c6ed624761bb8"
+  },
+  {
+    "id": "8b7e5e9a",
+    "title": "Force Majeure in Indian Contract Law",
+    "filepath": "raw/case-law/force-majeure-in-indian-contract-law.md",
+    "type": "case-law",
+    "category": "case-law",
+    "source_url": "",
+    "ingested_at": "2026-04-07T09:50:06",
+    "compiled": false,
+    "word_count": 89,
+    "content_hash": "sha256:df4eb3eb3ad2a5fe0fbda9f20731db905fcf1b7eb32309aaae933dcb2841d9ae",
+    "body_hash": "sha256:338c068b1882dfacec90749ea073a2e35cb300c94d20f4310d05f978d1ff3549"
+  }
+]
